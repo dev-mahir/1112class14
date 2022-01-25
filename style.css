@@ -1,0 +1,25 @@
+/* Age calculator  */
+.show_result{
+    background: #e2e2e2;
+    padding: 10px 15px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+body {
+    background: #e2e2e2;
+}
+
+.product-content .discount {
+    position: absolute;
+    top: 8px;
+    right: 9px;
+    background: rgb(84 187 115);
+    color: #fff;
+    padding: 2px 6px;
+    border-radius: 3px;
+}
+.info h4 {
+    font-size: 18px;
+    font-weight: 400;
+}
